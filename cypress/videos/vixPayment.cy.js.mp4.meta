@@ -1,0 +1,11 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-7954
+END=7005
+title=vixPayment Scenario 2: User want to be able to checkout after deciding to join VIX VIP Access but user not logged in yet
+[CHAPTER]
+TIMEBASE=1/1000
+START=-32744
+END=21989
+title=vixPayment Scenario 1: User want to be able to checkout after deciding to join VIX VIP Access when user already logged in
